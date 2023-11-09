@@ -1,1 +1,0 @@
-// export const user_token = localStorage.getItem('streetdine-user') && JSON.parse(localStorage.getItem('streetdine-user'));
